@@ -1,0 +1,4 @@
+  UID   PID  PPID   C STIME   TTY           TIME CMD
+  501  2575  2574   0  6:43PM ttys000    0:00.06 /bin/zsh -l
+  501  2649  2574   0  6:49PM ttys001    0:00.07 /bin/zsh -l
+  501  2655  2649   0  6:49PM ttys001    0:00.00 /Users/maribelcrespivalero/Desktop/Sistemas Operativos/Aventura 2/nivel6_2
