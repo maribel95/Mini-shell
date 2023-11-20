@@ -32,3 +32,6 @@ In addition, we will add 1 internal command, jobs, which will allow us to obtain
 
 ## Level 6
 
+At this level our mini shell will have to allow the redirection of the output of an external command to an external file, indicating “> file” at the end of the line.
+
+
